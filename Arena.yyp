@@ -324,6 +324,25 @@
             }
         },
         {
+            "Key": "4c40c4dd-1665-4286-9a66-6e683337dd34",
+            "Value": {
+                "id": "8f89224f-75b9-48b1-90a9-5b2f4e609792",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_floor\/obj_floor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "53399f3d-41c9-4ad0-aff9-70c9860ca353",
             "Value": {
                 "id": "6350ea61-3b03-4dda-a234-d2c5ef54eaa0",
@@ -438,25 +457,6 @@
             }
         },
         {
-            "Key": "9b588d64-a8b2-4315-b25d-d29d6da6d228",
-            "Value": {
-                "id": "83ab7061-5d2b-4785-8fe9-cec9439b6267",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/spr_floor\/spr_floor.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "a13af251-8197-4092-929e-79363279c3a5",
             "Value": {
                 "id": "56990758-ffd2-44a0-9e8c-75b7b959286a",
@@ -492,6 +492,25 @@
                 ],
                 "resourcePath": "options\/linux\/options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "a96bef05-2d2a-4700-8fe8-b15705e913fe",
+            "Value": {
+                "id": "af9442d2-af07-45d3-b86b-6c81b065ab58",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_floor\/spr_floor.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
