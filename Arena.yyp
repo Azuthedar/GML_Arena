@@ -58,6 +58,25 @@
             }
         },
         {
+            "Key": "104bf330-bf2f-4903-bddd-df509443963e",
+            "Value": {
+                "id": "c3e2b3ea-0d86-42c7-b3f2-280036873891",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/weapon_enemy_rock\/weapon_enemy_rock.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1275bbc4-ae36-4131-99f0-7d1bcca02a1d",
             "Value": {
                 "id": "c6887e25-6ef8-46a0-9751-8f5e070b62a1",
@@ -93,6 +112,44 @@
                 ],
                 "resourcePath": "views\/132fdb8d-7074-4f3d-a9cf-07cc778349c4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1595f97d-b780-45a9-8e2d-ed131bd8a7ae",
+            "Value": {
+                "id": "911eae1b-6fe7-4714-b641-f4c704357951",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/weapon_enemy_bow\/weapon_enemy_bow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1762f5e8-ef28-489d-9d6a-66b2d81a6791",
+            "Value": {
+                "id": "b4a85d75-596f-476e-aad0-d3408e53fa28",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/enemy_bow\/enemy_bow.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -324,6 +381,25 @@
             }
         },
         {
+            "Key": "45dbb6f3-5fea-4469-8f33-c57c292c363f",
+            "Value": {
+                "id": "abe69d1e-401f-4a64-8a00-3344ef0ac2e2",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/45dbb6f3-5fea-4469-8f33-c57c292c363f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "4c40c4dd-1665-4286-9a66-6e683337dd34",
             "Value": {
                 "id": "8f89224f-75b9-48b1-90a9-5b2f4e609792",
@@ -359,6 +435,44 @@
                 ],
                 "resourcePath": "views\/53399f3d-41c9-4ad0-aff9-70c9860ca353.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5d7b14da-db07-4166-8ace-0c3ec3908c4c",
+            "Value": {
+                "id": "b4ecc4ed-84ca-478e-adac-4528a80ec450",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/enemy_summoner\/enemy_summoner.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "60fdb2e3-10ce-4c9f-aa22-3ac03b58fea1",
+            "Value": {
+                "id": "2d168813-91fb-4bd2-a972-321f49e4b025",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/weapon_enemy_sword\/weapon_enemy_sword.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -454,6 +568,25 @@
                 ],
                 "resourcePath": "objects\/obj_inner_wall\/obj_inner_wall.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "934f6498-be37-4ae0-b57c-b4c833b65efa",
+            "Value": {
+                "id": "6df2f087-4538-4ff7-92d8-7487b8f7fce3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/934f6498-be37-4ae0-b57c-b4c833b65efa.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -571,6 +704,25 @@
             }
         },
         {
+            "Key": "c37dfd49-6412-431b-b950-682860118757",
+            "Value": {
+                "id": "85dd1ec1-d598-477b-828d-5f4a268418f8",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/player_sprite\/player_sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c8e58b6b-07e7-410f-8285-9ec18389d22f",
             "Value": {
                 "id": "0d4bd3c7-a64d-44f9-bf6e-b2ece90072d3",
@@ -628,6 +780,25 @@
             }
         },
         {
+            "Key": "df1f0472-9492-4113-b297-6a58725e1aee",
+            "Value": {
+                "id": "4f741858-0646-4803-a05c-1859e09efb13",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/df1f0472-9492-4113-b297-6a58725e1aee.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "e1d3b716-db07-4f22-9ea8-5d34b6323b8a",
             "Value": {
                 "id": "8b135512-9094-4300-8783-d4d73c01773a",
@@ -643,6 +814,25 @@
                     "default"
                 ],
                 "resourcePath": "views\/e1d3b716-db07-4f22-9ea8-5d34b6323b8a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e4978ae0-003f-41d0-89e7-a9819c06ef90",
+            "Value": {
+                "id": "6199f796-6389-47e6-85a8-6a0376e65796",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/e4978ae0-003f-41d0-89e7-a9819c06ef90.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -663,6 +853,25 @@
                 ],
                 "resourcePath": "views\/e5a683c7-b580-4ed7-b3fb-d1112ffdae50.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e5d726f0-a839-4eb8-864e-2251df6e7e4b",
+            "Value": {
+                "id": "b49c6b48-f265-481c-9c7d-8e0a0527d713",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/enemy_sword\/enemy_sword.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -720,6 +929,44 @@
                 ],
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f97b2b4c-e984-404b-b3aa-2d28cac22a2f",
+            "Value": {
+                "id": "a49baaf0-174b-4fe3-a24e-80a784ab21f5",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/armor_player_light\/armor_player_light.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ffea7e61-e67a-4cc8-ad0a-7107234ab7fa",
+            "Value": {
+                "id": "85aa35af-54ed-4128-b6a1-181a4f4c6b53",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/ffea7e61-e67a-4cc8-ad0a-7107234ab7fa.yy",
+                "resourceType": "GMFolder"
             }
         }
     ],
